@@ -1,0 +1,23 @@
+{
+  "name": "work1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "work1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mingtori/work1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mingtori/work1/issues"
+  },
+  "homepage": "https://github.com/Mingtori/work1#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
+  }
+}
